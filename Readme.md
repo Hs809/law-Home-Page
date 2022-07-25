@@ -10,7 +10,7 @@ I have build this website with my core HTML CSS skills
 
 ![image](./images/justice.png)
 
-You can check out here: 
+You can check out here: ![Justice By Hitesh](https://justice-by-hitesh.netlify.app/)
 
 
 
@@ -27,4 +27,6 @@ You can check out here:
 
 ## This project took me around 2 hours approximately.
 
-### Connect with me
+### Connect with me 
+[Twitter](https://twitter.com/HiteshP25522550) 
+[Linkdin](https://www.linkedin.com/in/hitesh-pal-8379011ab/)
